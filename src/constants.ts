@@ -35,7 +35,7 @@ export const ROUTER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.FUJI]: ZERO_ADDRESS,
   [ChainId.AVALANCHE]: '0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106',
   [ChainId.POLYGON]: '0x60913758635b54e6C9685f92201A5704eEe74748',
-  [ChainId.AURORA]: '0xfaf378EF8f1070C03aDE680CfBA651977029C25A'
+  [ChainId.AURORA]: '0xf3c231f5E9602d35eEcF9Ab1b51e25e7288924DF'
 }
 
 export const INIT_CODE_HASH: { [chainId in ChainId]: string } = {
