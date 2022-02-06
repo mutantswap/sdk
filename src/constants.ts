@@ -7,7 +7,7 @@ export enum ChainId {
   FUJI = 43113,
   AVALANCHE = 43114,
   POLYGON = 137,
-  AURORA = 1313161554
+  AURORA = 1313161555 //TODO: update to mainnet 1313161554
 }
 
 export enum TradeType {
