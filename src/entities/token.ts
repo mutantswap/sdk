@@ -60,5 +60,5 @@ export const WETH = {
   [ChainId.FUJI]: new Token(ChainId.FUJI,'0xd00ae08403B9bbb9124bB305C09058E32C39A48c',18,'WETH','Wrapped ETH'),
   [ChainId.AVALANCHE]: new Token(ChainId.AVALANCHE,'0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7',18,'WETH','Wrapped ETH'),
   [ChainId.POLYGON]: new Token(ChainId.POLYGON,'0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270',18,'WMATIC','Wrapped MATIC'),
-  [ChainId.AURORA]: new Token(ChainId.AURORA,'0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB',18,'ETH','Wrapped ETH')
+  [ChainId.AURORA]: new Token(ChainId.AURORA,'0xBBf006Cb7F45b859E56d3681EA58F059fc9BA3a5',18,'ETH','Wrapped ETH') //TODO: Change to WETH mainnet address 0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB
 }
